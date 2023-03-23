@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 class ="grijzeshit">Donkey-Kong Barrel Drop</h1>
 <p class ="grijzeshit"><i>Het geautomatiseerd pinslot!</i> </p>
 
@@ -47,3 +48,10 @@ img {
 }
 
 </style>
+=======
+# Donkey-Kong
+<h1>Barreldrop</h1>
+
+<h2>What your project does?</h2>
+<hr>
+>>>>>>> 11060de46a6f991b4568b29d2a6440193ec6a262
