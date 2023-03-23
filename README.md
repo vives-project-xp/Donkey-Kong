@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
 <h1>Donkey-Kong Barrel Drop</h1>
 <p><i>Het geautomatiseerd pinslot!</i> </p>
+=======
+<h1 class ="grijzeshit">Donkey-Kong Barrel Drop</h1>
+<p class ="grijzeshit"><i>Het geautomatiseerd pinslot!</i> </p>
+>>>>>>> 8ac87bc08644318053d890c9ad6569edd7305412
 
 
 <img src = "Model Escape Room.png" width = "400" height = "250">
@@ -65,9 +70,13 @@ img {
    margin: 20px 10px 25px 0px;
 }
 
+<<<<<<< HEAD
 h2{
     margin-top: 50px
 }
 
 </style>
 
+=======
+</style>
+>>>>>>> 8ac87bc08644318053d890c9ad6569edd7305412
