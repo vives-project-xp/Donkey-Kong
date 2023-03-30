@@ -70,9 +70,8 @@ h2{
 }
 
 style{
-    display: hidden;
+    visibility:hidden;
 }
 
-</style>
 </style>
 
