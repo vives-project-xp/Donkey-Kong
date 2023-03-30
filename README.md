@@ -69,6 +69,10 @@ h2{
     margin-top: 50px
 }
 
+style{
+    display: hidden;
+}
+
 </style>
 </style>
 
