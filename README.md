@@ -1,6 +1,6 @@
 <h1 class ="grijzeshit">Donkey-Kong Barrel Drop</h1>
 <p class ="grijzeshit"><i>Het geautomatiseerd pinslot!</i> </p>
-
+ <link rel="stylesheet" href="./style.css">
 
 <img src = "Model Escape Room.png" width = "400" height = "250">
 
