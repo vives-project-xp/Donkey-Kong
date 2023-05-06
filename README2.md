@@ -22,7 +22,10 @@
  </ul>
  <ul>
 4. Gebruik
- </ul
+ </ul>
+ <ul>
+ 5. Code 
+ </ul>
  
    <h2>Het geautomatiseerd pinslot</h2>
 
@@ -78,20 +81,13 @@ Conda activate mbed
  </ul>
 
 
-
-
-
-
-
-
-
-
-
 <h2>Gebruik</h2>
 Dit project zal gebruikt worden in een escape room. In de escape room zullen de spelers verwezen worden naar de deur van de ton. Wanneerde deur van de ton open gaat zullen ze een knop zien die knippert. De ogen van de spelers zullen dus direct op de drukknop vallen en ze weten dus dat ze daarop gaan moeten drukken.
 
-<h2> How to set up the dev environment</h2>
-Om dit project te instaleren moet je eerst en vooral een oogje aan de ton bevestigen zodat de solinoïde die kan tegenhouden. Natuurlijk moet je de de solinoïde op de juiste plaats zetten zodat de ton er recht boven hangt. Je hebt een microcontroller die al volledig geprogrammeerd is. Dan moet je de datasheet nemen van de microcontroller en alle outputs aansluiten en ben je klaar om dit project te gebruiken
+<h2> Code</h2>
+Dit is de code van ons project. Boven ieder blokje code staat er wat het doet.
+<img src= https://user-images.githubusercontent.com/113902824/236620357-a0b89139-dfbf-44a5-b49f-847cacf94213.png width="260" height="500">
+
 <h2>How to ship a change</h2>
 <h2>Change log</h2>
 <h2>License and author info</h2>
