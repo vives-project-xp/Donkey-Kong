@@ -32,11 +32,11 @@
 <img src = "Model Escape Room.png" width = "400" height = "250">
 
 Dit is een veiligheidssysteem voor een vallende brug. Als onderdeel van een opdracht in een escape room wordt een ton
-met een actuator omhoog gehoffen, nadat de bezoekers handmatig de veiligheidspin uit de ton trekken. Nu is de bedoeling dat wij dit automatiseren en dit zullen we doen aan de hand van een solinoïde. Hierbij maken we in feite een pinslot na.
+met een actuator omhoog gehoffen, nadat de bezoekers handmatig de veiligheidspin uit de ton trekken. Nu is de bedoeling dat wij dit automatiseren en dit zullen we doen aan de hand van een solenoïde. Hierbij maken we in feite een pinslot na.
 
 <h2>Doel van het project</h2>
 Het systeem was niet veilig genoeg aangezien de mensen de ton zelf omhoog konden heffen nadat ze de pin handmatig eruit trokken, waardoor de brug 
-op hun voeten kon vallen. Onze solinoïde vervangt dit, en zorgt er meteen voor dat bezoekers de ton niet meer omhoog kunnen heffen. Aan de ton is ook een deurtje. Hier gaan we een magneetcontact aan bevestigen, wanneer het deurtje opent zal de knop oplichten.
+op hun voeten kon vallen. Onze solenoïde vervangt dit, en zorgt er meteen voor dat bezoekers de ton niet meer omhoog kunnen heffen. Aan de ton is ook een deurtje. Hier gaan we een magneetcontact aan bevestigen, wanneer het deurtje opent zal de knop oplichten.
 
  <h2>Software</h2>
 Bij dit project we niet zoveel software nodig. We hebben dit project gemaakt met een nucleo-L476RG hiervoor hebben we dus code voor geprogrammeerd. Ik zal uitleggen wat je nodig hebt om die code te kunnen lezen en uploaden.
