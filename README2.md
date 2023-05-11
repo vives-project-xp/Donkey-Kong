@@ -32,6 +32,9 @@
  <ul>
  7. Info ontwikkelaars
  </ul>
+ <ul>
+ 8. Video en Powerpoint
+ </ul>
  
    <h2>1. Het geautomatiseerd pinslot</h2>
 
@@ -111,4 +114,5 @@ https://github.com/vives-project-xp/Donkey-Kong
  <ul>
  - Vic Verbiest: Vic.Verbiest@student.vives.be
  
-
+ <h2>8. Video en Powerpoint</h2>
+ https://vivesonline-my.sharepoint.com/:f:/g/personal/r0949229_student_vives_be/ElPL2LNzLsBHsgqWFYt4SCUBLQ9NIu5Cjd-czpVxd_Vjrg?e=Zw3JCD
